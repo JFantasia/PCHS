@@ -31,3 +31,9 @@ Successfully installed Django-3.0.6 asgiref-3.2.7 pytz-2020.1 sqlparse-0.3.1
 
 Create proyect
 django-admin startproject mysite .
+
+Update Python for use Postgresql
+sudo apt install python3-dev python3-psycopg2
+
+Install postgresql libraries
+pip3 install psycopg2
