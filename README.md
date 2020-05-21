@@ -2,6 +2,8 @@
 
 Platform Cooperative for House Services
 
+Technology: Django 3.0.6
+
 Use python3 previously intalled in my system
 
 Install pip
